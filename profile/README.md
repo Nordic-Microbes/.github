@@ -28,7 +28,23 @@ And that's it! You are now on your way to downloading and using repos stored on 
 If you are interested in learning more about Github, you can check out [Github's own documentation](https://docs.github.com/en/get-started/start-your-journey/hello-world).
 
 
-## TODO: Add a small section about best practices for creating and maintaining code at Nordic Microbes
+## Contribution and writing code
+Everyone at Nordic Microbes can create and fork repositories.  
+The suggested workflow for creating software at Nordic Microbes is to either:  
+- Create a new repo in the Nordic Microbes organization
+- Or create a new repo on your personal profile and transfer ownership to Nordic Microbes
+
+You will have to **fork** a **branch** from Nordic Microbes to contribute with changes to the code.  
+Forking a repo is Git-jargon. Git is a programming language for tracking changes in code - basically a save/load button for your coding projects.  
+You can learn the basics of Git [here](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners).  
+
+Basically, creating a new branch allows you to make changes to the code without altering the main code. You can use your branch to create new features or edit existing ones, while users can still use the code as usual.  
+Forking a branch allows you to keep a copy of the branch on your personal Github profile. Thereby, you can edit the code with Git (version control) providing better control over what has been changed when and why.  
+When you've finished a feature, you push the branch back to the repo at Nordic Microbes and submit a pull request.  
+The lead maintainer can then inspect the changes and merge the pull request if accepted.  
+
+And that is all there is to it!  
+Remember, it is good practice to document your code so both you and others can easily understand what it does and why it does it.
 
 
 <!--
