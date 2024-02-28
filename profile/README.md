@@ -1,6 +1,7 @@
 # Nordic Microbes Github organization
 This Github organization is for employees working at [Nordic Microbes A/S](https://bioomix.com).
-If you're seeing this as a member of the organization, change the view from "Public" to "Member" on the right hand side.
+If you're seeing this as a member of the organization, change the view from "Public" to "Member" on the right hand side.  
+If you are not a member, but think you should be, ask your colleagues to add you.
 
 
 <!--
