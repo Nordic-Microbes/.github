@@ -2,7 +2,7 @@
 This Github organization is for employees working at Nordic Microbes A/S.  
 Here, we can collaborate on programming projects, using version control and ensuring privacy.  
 This README contains a short introduction to Github and Git, and outlines how to download and use the code in the repositories.  
-
+ 
 ## I am not a coder, why is this for me? 
 This organization is a space where the people who do produce executable code can upload their projects, so they are automatically updated when new changes are made to the programs.  
 For you, this means that you no longer have to use an out-dated version of a script, because the maintainer of the script hasn't told you that there is a new version available.  
